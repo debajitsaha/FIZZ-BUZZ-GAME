@@ -1,0 +1,25 @@
+.main{
+    padding: auto;
+    height: 300px;
+    width: 500px;
+    border: 50px solid orange;
+    margin:auto;
+    margin-top: 200px;
+
+    background-color: palegreen;
+    text-align: center;
+    font-size: 50px;
+}
+body{
+    background-color: rebeccapurple;
+}
+#num{
+    font-size: 30px;
+    background-color: skyblue;
+}
+#hi{
+    font-size: 30px;
+    color: sandybrown;
+    background-color: slateblue;
+    
+}
